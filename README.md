@@ -2,8 +2,8 @@
 
 This repository si about state of player developing
 
-![alt text](https://github.com/Preclikos/PTHPLayerPublic/raw/main/photo_2021-10-12_15-17-56%20(2).jpg)
+![](https://github.com/Preclikos/PTHPLayerPublic/raw/main/photo_2021-10-12_15-17-56%20(2).jpg | width=300))
 
-![alt text](https://github.com/Preclikos/PTHPLayerPublic/raw/main/photo_2021-10-12_15-17-56.jpg)
+![](https://github.com/Preclikos/PTHPLayerPublic/raw/main/photo_2021-10-12_15-17-56.jpg | width=300))
 
-![alt text](https://github.com/Preclikos/PTHPLayerPublic/raw/main/photo_2021-10-12_15-19-25.jpg)
+![](https://github.com/Preclikos/PTHPLayerPublic/raw/main/photo_2021-10-12_15-19-25.jpg | width=300))
