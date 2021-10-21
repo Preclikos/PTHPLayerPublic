@@ -1,5 +1,7 @@
 # PTHPlayer = TVHeadend Player for Samsung Tizen
 
+If u want to help US => fell free to join and ask on Discord https://discord.gg/Krq6dDub
+
 This repository si about state of player developing
 
 Before half year i thing is there way to implement TVHeadend to Tizen
