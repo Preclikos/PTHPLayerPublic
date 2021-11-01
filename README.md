@@ -1,13 +1,13 @@
-# PTHPlayer = TVHeadend Player for Samsung Tizen
+# PTHPlayer is the new TVHeadend Player for Samsung Tizen
 
-If u want to help US => fell free to join and ask on Discord https://discord.gg/Krq6dDub
+If you want to help US => feel free to join and ask on Discord https://discord.gg/Krq6dDub
 
-This repository si about state of player developing
+This repository is about the state of player development.
 
-Before half year i thing is there way to implement TVHeadend to Tizen
+ I was thinking half a year ago:  Is there a way to implement a TVHeadend client for Tizen OS on Samsung TVs?
 
-- HTSP C# Client - POC Rewrited work without worries maybe can rewrite for better performance
-- Connect Protocol to Native Renderer - this done with dynamic low lattency buffer maybe need improve stability starting flow
+- HTSP C# Client - POC Rewritten work without worries maybe can rewrite for better performance
+- Connection Protocol to Native Renderer - this was done by dynamic low latency buffer may be needed to improve stability starting flow
 - DVBSUB Software Decoder and Renderer implemented with SkiaSharp Image processor
 
 ### Features
