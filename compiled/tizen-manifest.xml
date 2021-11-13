@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest package="cz.preclikos.PTHPlayer.TV" version="0.1.108" api-version="5" xmlns="http://tizen.org/ns/packages">
+    <author email="pthplayer@preclikos.cz" href="http://pthplayer.preclikos.cz">Jan Husak</author>
+    <profile name="tv" />
+    <ui-application appid="cz.preclikos.PTHPlayer.TV" exec="PTHPlayer.Tizen.TV.dll" multiple="false" nodisplay="false" taskmanage="true" type="dotnet" hw-acceleration="on" launch_mode="single">
+        <label>PTHPlayer</label>
+        <icon>Logo_512.png</icon>
+        <metadata key="http://tizen.org/metadata/prefer_dotnet_aot" value="true" />
+        <splash-screens />
+    </ui-application>
+    <shortcut-list />
+    <privileges>
+        <privilege>http://developer.samsung.com/privilege/esplay</privilege>
+        <privilege>http://tizen.org/privilege/internet</privilege>
+    </privileges>
+    <dependencies />
+    <provides-appdefined-privileges />
+    <feature name="http://tizen.org/feature/screen.size.normal.1080.1920">true</feature>
+</manifest>
